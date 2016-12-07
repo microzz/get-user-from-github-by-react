@@ -7,12 +7,6 @@
     "build": "webpack --progress --profile --colors",
     "dev": "node server.js"
   },
-  "keywords": [
-    "react",
-    "webpack",
-    "babel",
-    "es6"
-  ],
   "author": "microzz",
   "license": "MIT",
   "homepage": "http://microzz.com",
