@@ -7,10 +7,6 @@
     "build": "webpack --progress --profile --colors",
     "dev": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/microzz/react-babel-webpack-framework.git"
-  },
   "keywords": [
     "react",
     "webpack",
