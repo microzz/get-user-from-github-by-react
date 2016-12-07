@@ -15,9 +15,6 @@
   ],
   "author": "microzz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/microzz/react-babel-webpack-framework/issues"
-  },
   "homepage": "http://microzz.com",
   "devDependencies": {
     "babel-core": "^6.3.15",
